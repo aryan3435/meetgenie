@@ -2,10 +2,6 @@ import Link from "next/link";
 
 import { Button } from "@/components/ui/button";
 
-
-import "@stream-io/video-react-sdk/dist/css/styles.css";
-
-
 export const CallEnded = () => {
 
     return (
